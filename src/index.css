@@ -1,0 +1,40 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  padding: 0;
+  margin: 0;
+}
+
+video {
+  width: 78%;
+  height: auto;
+}
+
+body {
+  text-align: center;
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  letter-spacing: 0.5rem;
+  color: #03dac6;
+  transition: all 0.3s ease;
+  z-index: 3;
+}
+h1:hover {
+  transform: translate3d(0, -10px, 22px);
+  color: #ff0266;
+}
+
+div {
+  margin: 1rem;
+}
+
+button {
+  margin-bottom: 10px;
+  min-width: 9rem;
+}
+
+hr {
+  margin: 0.7rem;
+}
